@@ -1,0 +1,4 @@
+For FB-Img-Few
+python main_gana.py --dataset FB-One --data_path ./FB --few 5 --data_form Pre-Train --prefix fbone_gana5 --max_neighbor 40 --batch_size 512 --eval_epoch 1000 --learning_rate 0.001
+For DB-Img-Few
+python main_gana.py --dataset DB-One --data_path ./DB --few 5 --data_form Pre-Train --prefix dbone_gana5 --max_neighbor 40 --batch_size 512 --eval_epoch 1000 --learning_rate 0.01
