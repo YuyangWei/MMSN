@@ -1,8 +1,8 @@
 # MMSN: Multi-modal Siamese Network for Few-shot Knowledge Graph Completion (ICDE 2024)
 
-MMSN: Meta-learning Multi-modal Siamese Network
+MMSN Meta-learning Multi-modal Siamese Network
 
-The optimal parameters are presented in the file config.
+The optimal parameters are presented in the file configs.
 
 Run the code in configs to gain the results in the paper.
 
