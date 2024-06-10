@@ -8,5 +8,7 @@ Run the code in configs to gain the results in the paper.
 
 The experimental environments are presented in the requirements.txt
 
-The datasets will be shared after the publication of the extended paper.
+The datasets FB-Img-Few and DB-Img-Few are derived from FB-Img and DB-Img, respectively.
+
+The datasets FB-Img-Few and DB-Img-Few will be shared after the publication of the extended paper.
 
